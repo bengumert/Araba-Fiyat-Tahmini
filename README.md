@@ -26,11 +26,3 @@ Bu depo aşağıdaki Jupyter Notebook dosyasını içermektedir:
 * **TensorFlow / Keras**: Derin öğrenme modeli oluşturma ve eğitme için.
 * **Scikit-learn**: Veri ön işleme (veri bölme, ölçeklendirme) için.
 * **Matplotlib / Seaborn**: Veri görselleştirmeleri için.
-
-## Katkıda Bulunma
-
-Bu projeye katkıda bulunmaktan çekinmeyin. Her türlü geri bildirim, hata düzeltmesi veya yeni özellik önerisi kabul edilir. Lütfen bir "issue" açarak veya bir "pull request" göndererek katkıda bulunun.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
